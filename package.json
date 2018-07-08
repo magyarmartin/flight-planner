@@ -1,0 +1,15 @@
+{
+  "name": "flight-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magyar Martin <martin495555@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.40.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
